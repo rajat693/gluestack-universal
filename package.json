@@ -1,0 +1,11 @@
+{
+  "name": "gluestack-universal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rajat693/gluestack-universal.git",
+  "author": "rajat693 <rajatchaudhary.rc693@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "run:expo": "cd apps/expo-router-app && yarn start -c"
+  }
+}
