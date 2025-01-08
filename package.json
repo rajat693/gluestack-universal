@@ -6,6 +6,7 @@
   "author": "rajat693 <rajatchaudhary.rc693@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "run:expo": "cd apps/expo-router-app && yarn start -c"
+    "run:expo": "cd apps/expo-router-app && yarn start -c",
+    "run:next": "cd apps/next-app && yarn dev"
   }
 }
